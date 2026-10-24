@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.proqconsultants.com.au/sitemap.xml
+Sitemap: https://proqconsultants.com.au/sitemap.xml
