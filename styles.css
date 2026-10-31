@@ -80,11 +80,14 @@ ul { margin: 0; padding: 0; list-style: none; }
 }
 
 .text-gradient {
-  color: var(--sky);
+  background: linear-gradient(100deg, var(--teal), var(--sky));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 
 .hero-black {
-  color: var(--sky);
+  color: var(--navy);
 }
 
 /* ---------- Buttons ---------- */
